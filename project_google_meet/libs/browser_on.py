@@ -5,7 +5,7 @@ import os
 class open_browser(object):
 
     def __init__(self):
-        self.url_web = 'https://www.google.com/'
+        self.url_web = ""
 
     def check_os(self):
         my_os =""
@@ -31,8 +31,8 @@ class open_browser(object):
 
         return task_success
 
-    def open_browser(self):
-        url = self.url_web
+    def open_browser(self, url_input):
+        url = url_input
         browser_name = None
         os_found = self.check_os()
 
@@ -64,5 +64,3 @@ class open_browser(object):
             round_search_browser += 1
             if round_search_browser == 3:
                 break
-
-        print(browser_enable, round_search_browser)
