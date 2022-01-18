@@ -2,4 +2,5 @@
 
 from libs.browser_on import open_browser
 
-open_browser()
+web = open_browser()
+web.open_browser()
