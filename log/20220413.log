@@ -1,0 +1,23 @@
+2022-04-13 16:39:34.215 | INFO     | libs.browser_utill:open_browser:20 - open : {url}
+2022-04-13 16:39:50.854 | INFO     | libs.browser_utill:open_browser:20 - open : https://meet.google.com/nht-zaia-ygc
+2022-04-13 17:59:32.738 | INFO     | libs.browser_utill:open_browser:20 - open : https://meet.google.com/nht-zaia-ygc
+2022-04-13 18:05:59.678 | INFO     | libs.browser_utill:open_browser:30 - open : https://meet.google.com/nht-zaia-ygc
+2022-04-13 18:13:57.942 | INFO     | libs.browser_utill:open_browser:30 - open : https://meet.google.com/nht-zaia-ygc
+2022-04-13 18:16:35.549 | INFO     | libs.browser_utill:open_browser:33 - open : https://meet.google.com/nht-zaia-ygc
+2022-04-13 18:35:16.496 | ERROR    | libs.browser_utill:turn_off_mic_and_cam:22 - can't turn off : The Pillow package is required to use this function.
+2022-04-13 18:35:16.503 | INFO     | libs.browser_utill:open_browser:34 - open : https://meet.google.com/nht-zaia-ygc
+2022-04-13 18:36:28.334 | ERROR    | libs.browser_utill:turn_off_mic_and_cam:21 - can't turn off : The Pillow package is required to use this function.
+2022-04-13 18:36:28.337 | INFO     | libs.browser_utill:open_browser:33 - open : https://meet.google.com/nht-zaia-ygc
+2022-04-13 18:37:09.386 | ERROR    | libs.browser_utill:turn_off_mic_and_cam:22 - can't turn off : The Pillow package is required to use this function.
+2022-04-13 18:37:09.389 | INFO     | libs.browser_utill:open_browser:34 - open : https://meet.google.com/nht-zaia-ygc
+2022-04-13 18:37:31.285 | ERROR    | libs.browser_utill:turn_off_mic_and_cam:22 - can't turn off : The Pillow package is required to use this function.
+2022-04-13 18:37:31.288 | INFO     | libs.browser_utill:open_browser:34 - open : https://meet.google.com/nht-zaia-ygc
+2022-04-13 18:38:08.210 | ERROR    | libs.browser_utill:turn_off_mic_and_cam:22 - can't turn off : The Pillow package is required to use this function.
+2022-04-13 18:38:08.213 | INFO     | libs.browser_utill:open_browser:34 - open : https://meet.google.com/nht-zaia-ygc
+2022-04-13 18:40:59.307 | ERROR    | libs.browser_utill:turn_off_mic_and_cam:31 - can't turn off : The Pillow package is required to use this function.
+2022-04-13 18:40:59.314 | INFO     | libs.browser_utill:open_browser:43 - open : https://meet.google.com/nht-zaia-ygc
+2022-04-13 18:43:07.380 | ERROR    | libs.browser_utill:click_button_join:26 - can't join class : The confidence keyword argument is only available if OpenCV is installed.
+2022-04-13 18:43:07.385 | INFO     | libs.browser_utill:open_browser:47 - open : https://meet.google.com/nht-zaia-ygc
+2022-04-13 18:46:40.450 | ERROR    | libs.browser_utill:click_button_join:26 - can't join class : Failed to read F:\ComputerEngineering\lazy_forever\resourcejoin_class.png because file is missing, has improper permissions, or is an unsupported or invalid format
+2022-04-13 18:46:40.456 | INFO     | libs.browser_utill:open_browser:47 - open : https://meet.google.com/nht-zaia-ygc
+2022-04-13 18:47:14.363 | INFO     | libs.browser_utill:open_browser:47 - open : https://meet.google.com/nht-zaia-ygc
