@@ -15,7 +15,6 @@ if not os.path.exists(real_path_log):
     os.makedirs(real_path_log)
 
 
-
 logger.add("{}/{}.log".format(real_path_log, today), enqueue=True, retention="30 days")
 
 def process_run():

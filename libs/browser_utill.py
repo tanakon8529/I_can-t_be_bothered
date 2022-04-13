@@ -5,8 +5,6 @@ import pyautogui
 import time
 import os
 
-
-
 class open_browser(object):
 
     def __init__(self):

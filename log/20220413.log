@@ -21,3 +21,5 @@
 2022-04-13 18:46:40.450 | ERROR    | libs.browser_utill:click_button_join:26 - can't join class : Failed to read F:\ComputerEngineering\lazy_forever\resourcejoin_class.png because file is missing, has improper permissions, or is an unsupported or invalid format
 2022-04-13 18:46:40.456 | INFO     | libs.browser_utill:open_browser:47 - open : https://meet.google.com/nht-zaia-ygc
 2022-04-13 18:47:14.363 | INFO     | libs.browser_utill:open_browser:47 - open : https://meet.google.com/nht-zaia-ygc
+2022-04-13 19:09:30.514 | ERROR    | libs.browser_utill:click_button_join:26 - can't join class : name 'asda' is not defined
+2022-04-13 19:09:30.516 | INFO     | libs.browser_utill:open_browser:47 - open : https://meet.google.com/nht-zaia-ygc
